@@ -7,8 +7,10 @@
 }
 
 .experienceimg {
-  width: 150px;
-  height: 150px;
+  width: 450px;
+  height: 400px;
+  padding-left: 35%;
+  padding-right: 35%;
 }
 
 header {
