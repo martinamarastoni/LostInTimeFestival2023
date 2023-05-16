@@ -6,15 +6,6 @@
   align-items: center;
 }
 
-.experienceimg {
-  width: 500px;
-  height: 400px;
-  margin-left: 10%;
-  margin-right: 3%;
-  padding-left: 10%;
-  padding-right: 13%;
-}
-
 header {
   color: yellow;
   text-align: center;
@@ -562,6 +553,7 @@ p {
   font-family: 'Marcellus', serif;
   padding-bottom: 2%;
   font-size: 24px;
+  line-height: 0.2em;
 }
 
 .faqtitle {
