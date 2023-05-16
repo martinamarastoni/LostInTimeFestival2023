@@ -555,6 +555,16 @@ p {
   font-size: 24px;
 }
 
+.descriptiondoc {
+  padding-top: 2%;
+  margin-left: 6%;
+  margin-right: 6%;
+  font-family: 'Marcellus', serif;
+  padding-bottom: 2%;
+  font-size: 21px;
+  color: rgb(0,0,0);
+}
+
 .faqtitle {
   font-family: 'Righteous', cursive;
   font-size: 40px;
