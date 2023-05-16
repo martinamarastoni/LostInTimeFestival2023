@@ -6,6 +6,11 @@
   align-items: center;
 }
 
+.experienceimg {
+  width: 150px;
+  height: 150px;
+}
+
 header {
   color: yellow;
   text-align: center;
