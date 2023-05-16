@@ -9,7 +9,10 @@
 .experienceimg {
   width: 500px;
   height: 400px;
-  align-items: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 header {
@@ -312,7 +315,7 @@ p {
 
 .map {
   align-items: center;
-  margin-left: 34%;
+  margin-left: 33%;
   width: 400px;
   height: 400px;
   border: 10px;
@@ -626,43 +629,4 @@ p {
   font-family: 'Marcellus', serif;
   padding-bottom: 3%;
   font-size: 24px;
-}
-
-@media (max-width: 480px) {
-  .menu {
-    padding-right: 3%;
-    padding-left: 3%;
-  }
-
-  h4 {
-    padding-right: 1%;
-    padding-left: 1%;
-  }
-
-  #buytickets {
-    font-size: 28px;
-    padding-left: 1%;
-    padding-right: 1%
-  }
-
-  .nodec {
-    font-size: 25px;
-  }
-
-  .spotifyplaylist {
-    font-size: 19px;
-  }
-
-  .line1background, .line2background, .line3background, .line4background, .line5background {
-    padding-top: -2%;
-  }
-
-  .map {
-    padding-left: 31%;
-    margin-left: 1%;
-    margin-right: 1%;
-    width: 150px;
-    height: 150px;
-    border: 10px;
-  }
 }
