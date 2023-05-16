@@ -9,8 +9,7 @@
 .experienceimg {
   width: 450px;
   height: 400px;
-  padding-left: 35%;
-  padding-right: 35%;
+  align-items: center;
 }
 
 header {
