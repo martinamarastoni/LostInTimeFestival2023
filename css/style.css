@@ -110,7 +110,6 @@ h4 {
   padding-bottom: 4%;
   align-items: center;
   color: yellow;
-   text-align: justify;
 }
 
 #buytickets {
@@ -299,7 +298,6 @@ p {
   padding-bottom: 4%;
   padding-right: 16%;
   padding-left: 16%;
-   text-align: justify;
 }
 
 .p2 {
@@ -434,7 +432,6 @@ p {
   padding-left: 5%;
   padding-right: 5%;
   margin-bottom: -3% !important;
-
 }
 
 .button {
@@ -556,7 +553,6 @@ p {
   font-family: 'Marcellus', serif;
   padding-bottom: 2%;
   font-size: 24px;
-   text-align: justify;
 }
 
 .descriptiondoc {
@@ -593,7 +589,6 @@ p {
   font-size: 23px;
   font-style: bold;
   text-decoration: underline;
-   text-align: justify;
 }
 
 .documentazionetitolo {
@@ -616,7 +611,6 @@ p {
   font-size: 27px;
   text-decoration: underline;
   color: black;
-   text-align: justify;
 }
 
 .qa:hover {
