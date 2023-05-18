@@ -157,7 +157,7 @@ h6 {
   font-size: 30px;
   letter-spacing: 0.06em;
   margin-left: 2%;
-  margin-right: -2%;
+  margin-right: -4%;
   padding-top: 3%; 
   padding-bottom: 4%;
   align-items: center;
@@ -306,7 +306,7 @@ p {
 
 .map {
   align-items: center;
-  margin-left: 33%;
+  margin-left: 33.5%;
   width: 400px;
   height: 400px;
   border: 10px;
