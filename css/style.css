@@ -307,6 +307,7 @@ p {
 .map {
   align-items: center;
  margin-left: 27%;
+  margin-right: 40%;
   width: 600px;
   height: 500px;
   border: 10px;
