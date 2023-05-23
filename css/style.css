@@ -217,12 +217,9 @@ h6 {
   background-attachment: fixed;
 }
 
-.line1background, .line2background, .line3background, .line4background, .line5background, .newsletterandform, .newsletter {
+.line1background, .line2background, .line3background, .line4background, .line5background, .newsletterandform {
   background-image: url('imgs/img4.jpg');
   background-position: left;
-}
-
-.line3background, .line5background {
   margin-right: 0%;
   margin-left: 0%;
   margin-top: -2%;
@@ -232,15 +229,6 @@ h6 {
   background-attachment: fixed;
 }
 
-.line2background, .line4background{
-  margin-right: 0%;
-  margin-left: 0%;
-  margin-top: -2%;
-  padding-bottom: 0;
-  padding-right: 0%;
-  padding-left: 0%;
-  background-attachment: fixed;
-}
 
 .line1, .line2, .line3, .line4, .line5 {
   font-family: 'Marcellus', serif;
@@ -679,9 +667,9 @@ p {
 }
 
 .instaimg {
-  height: 500px;
+  height: 550px;
   width: 300px;
   padding-bottom: 3%;
- margin-left: 30%;
+ margin-left: 40%;
   padding-top: 1%;
 }
