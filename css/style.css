@@ -687,8 +687,9 @@ p {
 .instaimg {
   padding-left: 29%;
   padding-right: 0;
-  height: 900px;
-  width: 300px;
+  height: 600px;
+  width: 250px;
   padding-top: 1%;
   padding-bottom: 3%;
+  display-element: center;
 }
