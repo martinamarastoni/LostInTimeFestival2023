@@ -306,7 +306,7 @@ p {
 
 .map {
   align-items: center;
- margin-left: 35%;
+ margin-left: 34%;
   margin-right: -40%;
   width: 400px;
   height: 250px;
@@ -333,7 +333,7 @@ p {
   padding-top: 0px;
   background-image: url('imgs/img5.jpg');
   background-attachment: fixed;
-  background-position: center;
+  background-position: top;
   margin-right: 0%;
   margin-left: 0%;
 }
@@ -440,10 +440,10 @@ p {
     font-style: bold;
     color: purple;
     border: none;
-    border-radius: 25%;
+    border-radius: 0%;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
-    font-size: 14px;
+    font-size: 15px;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
   }
@@ -685,7 +685,9 @@ p {
 }
 
 .instaimg {
-  height: 600px;
-  width: 250px;
+  height: 500px;
+  width: 300px;
   padding-bottom: 3%;
+  padding-left: 35%;
+  padding-top: 1%;
 }
