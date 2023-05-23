@@ -306,7 +306,7 @@ p {
 
 .map {
   align-items: center;
- margin-left: 32%;
+ margin-left: 35%;
   margin-right: -40%;
   width: 400px;
   height: 250px;
@@ -685,10 +685,7 @@ p {
 }
 
 .instaimg {
-  padding-left: 33%;
-  padding-right: 0;
   height: 600px;
   width: 250px;
-  padding-top: 1%;
   padding-bottom: 3%;
 }
