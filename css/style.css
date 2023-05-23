@@ -320,7 +320,8 @@ p {
   padding-bottom: -2%;
   margin-bottom: -3%;
   background-image: url('imgs/img5.jpg');
-  background-position: center;
+  background-position: center-top;
+  background-attachment: fixed;
   margin-right: 0%;
   margin-left: 0%;
 }
