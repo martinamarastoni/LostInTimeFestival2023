@@ -407,7 +407,7 @@ p {
   font-family:'Ysabeau', sans-serif;
   align-items: center;
   text-align: center;
-  padding-top: 0;
+  margin-top: -5%;
   padding-bottom: 3%;
   padding-left: 5%;
   padding-right: 5%;
