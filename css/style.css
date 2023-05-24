@@ -96,6 +96,7 @@ body {
   width: 100%;
   margin-right: 0;
   padding-right: none;
+  scroll-behavior: smooth; 
 }
 
 h4 {
